@@ -1,6 +1,6 @@
 <html>
   <head>
-        <title>ÃÊ´ëÀå</title>
+        <title></title>
    </head>
    <body>
          <img src="cho.jpg">
