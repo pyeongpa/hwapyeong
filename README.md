@@ -3,5 +3,5 @@
         <title></title>
    </head>
    <body>
-         <img src="choeo.jpg">
+         <img src="choeoo.jpg">
     </body>
